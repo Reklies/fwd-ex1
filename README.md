@@ -1,7 +1,7 @@
 # EX01 Developing a Simple Webserver
-## Date:14-03-2025
-## NAME : BOOBESH PM
-## REG NO: 212222233001
+## Date:20-03-2025
+## NAME : REKLIES J
+## REG NO: 21222110041
 ## AIM:
 To develop a simple webserver to serve html pages and to create a simple web page
 
